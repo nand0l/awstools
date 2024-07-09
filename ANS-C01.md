@@ -1,5 +1,9 @@
 # AWS Certified Advanced Networking - Specialty
 
+
+This credential helps organizations identify and develop talent with critical skills for implementing cloud initiatives. Earning AWS Certified Advanced Networking - Specialty validates expertise in designing and maintaining network architecture for the breadth of AWS services.
+[AWS Certified Advanced Networking - Specialty](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
+
 ## [Networking Core - Knowledge Badge Readiness Path](https://explore.skillbuilder.aws/learn/learning_plan/view/1944/networking-core-knowledge-badge-readiness-path)
 
 ### Description
